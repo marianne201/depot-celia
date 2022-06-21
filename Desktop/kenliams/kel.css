@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+
+
+}
+.en_tete{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    font-size: 50px;
+}
+.en_tete2 {
+    border: 2px solid rgb(247, 239, 239) ;
+    padding: 20px;
+    margin: 10px;
+}
+.en_tete2 a{
+    margin-left: 20px;
+    text-decoration: none;
+}
+.im1{
+    height: 600px;
+    background-image: url(kel/celou.png);
+    background-repeat: no-repeat;
+    background-size: 1900px 1000px;
+
+}
+.titi{
+    width: 250px;
+    height: 500px;
+    background-color: rgb(226, 241, 241);
+    margin-left: 900px;
+        margin-top: 90px;
+        padding-top: 80px;
+}
+
+.mo{
+    height: 400px;
+    width: 100%;
+    display: flex;
+}
+.ki{
+    width: 20%;
+    margin-left: 5%;
+    height: 100%;
+    
+}
+.ki img{
+height: 100%;
+width: 90%;
+}
+
+.toto{
+    width: 250px;
+    height: 500px;
+    background-color: rgb(204, 220, 218);
+    margin-left: 900px;
+        margin-top: 90px;
+        padding-top: 80px;
+}
+.lo{
+    height: 900px;
+    background-image: url(kel/images.png);
+    background-repeat: no-repeat;
+    background-size: 1900px 1000px;
+ 
+}
+
