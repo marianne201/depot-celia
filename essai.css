@@ -1,0 +1,13 @@
+.main{
+    height: 600px;
+    display:flex;
+    flex-flow: row wrap;
+    justify-content:space-between ;
+    background-color: aliceblue;
+    align-items: center;
+align-content: space-between;
+}
+main img{
+    height: 150px;
+    width: 150px;
+}
